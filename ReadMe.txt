@@ -8,7 +8,7 @@ How to Run the Project
 
 - Data Cleaning is done in SQL and then exported in the same .csv format
 
-- Before running the python script, install the necessary libraries (creating a local environment is recommended) and make necessary location changes.
+- Before running the Python/Jupyter Notebook script, install the necessary libraries (creating a local environment is recommended) and make necessary location changes.
 
 - Run the Python script to train and evaluate models.
 
